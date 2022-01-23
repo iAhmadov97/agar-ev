@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "discord.js": "12",
+    "dotenv": "^10.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently \"cd api && yarn start\" \"cd web && yarn start\""
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.0"
+  }
+}

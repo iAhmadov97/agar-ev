@@ -1,0 +1,20 @@
+{
+  "NS": {
+    "called": "NS",
+    "color": "blue",
+    "permission": {
+      "admin": true,
+      "maxTime": 50000
+    }
+  },
+  "ML": {
+    "called": "ML",
+    "color": "blue",
+    "permission": {
+      "admin": false,
+      "mute": true,
+      "ban": false,
+      "maxTime": 50000
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "title": "AGAREV - أقاريو  العربية",
+  "version": "v2.8.5 beta",
+  "disabled": false,
+  "prixs": {
+    "prixBuyClan": 200
+  },
+  "change_log": {
+    "title": "AGAREV",
+    "1629218485384": {
+      "version": "v2.8.5",
+      "header": "*Big fixes",
+      "content": [
+        "Fix the keys of keyboard",
+        "Fix deleting the clan without any reasons",
+        "Fix bugs on multibox"
+      ]
+    }
+  },
+  "ads": {
+    "title": "test",
+    "image": "https://i.imgur.com/bq0mPSY.png",
+    "url": ""
+  },
+
+  "discord": "",
+  "bgGame": "https://i.imgur.com/sanD0N5.jpg",
+  "bg": "https://mydesktopwalls.com/wp-content/uploads/2020/09/Anime-Wallpaper.jpg",
+  "propertysAllowed": ["balance", "avatar", "pid", "level", "verified", "avatar"],
+  "muoas": [
+    "a5C3LnFpng",
+    "85tkJHVpng",
+    "ePzSyUxpng"
+  ],
+  "globalskins": {
+    "wemslokpng": {
+      "author": "cair7",
+      "code": "wemslokpng",
+      "url": "http://i.imgur.com/wemslok.png",
+      "tag": "anime"
+    },
+    "n8pZNB9png": {
+      "author": "cair7",
+      "code": "n8pZNB9png",
+      "url": "http://i.imgur.com/n8pZNB9.png",
+      "tag": "anime"
+    },
+    "Oz2A94Rpng": {
+      "author": "cair7",
+      "code": "Oz2A94Rpng",
+      "url": "http://i.imgur.com/Oz2A94R.png",
+      "tag": "anime"
+    },
+    "IzGMzqlpng": {
+      "author": "cair7",
+      "code": "IzGMzqlpng",
+      "url": "http://i.imgur.com/IzGMzql.png",
+      "tag": "anime"
+    },
+    "svHo4uBpng": {
+      "author": "cair7",
+      "code": "svHo4uBpng",
+      "url": "http://i.imgur.com/svHo4uB.png",
+      "tag": "anime"
+    },
+    "O3ZoyDypng": {
+      "author": "cair7",
+      "code": "O3ZoyDypng",
+      "url": "http://i.imgur.com/O3ZoyDy.png",
+      "tag": "anime"
+    }
+  },
+  "default": {
+    "skin": "gxEJvZbjpg",
+    "multi": "pZ9xDk7png",
+    "settings": {
+      "GENERALE": {
+        "title": "إعدادات العامة",
+        "content": {
+          "BG_BORDER": {
+            "url": "https://i.imgur.com/sanD0N5.jpg",
+            "description": "خلفية اللعبة"
+          },
+          "GRIDS": {
+            "activated": true,
+            "description": "إظهار الخطوط اللعبة"
+          },
+          "SHOW_NAME_CELL": {
+            "activated": true,
+            "description": "إظهار اسماء اللاعبين"
+          },
+          "SHOW_SKIN_CELL": {
+            "activated": true,
+            "description": "إظهار سكنات اللاعبين"
+          },
+          "MASS_CELL": {
+            "activated": true,
+            "description": "إظهار السكور على الخلية"
+          },
+          "MUOA_CIRCLE": {
+            "activated": true,
+            "description": "إظهار الدائرة الخارجية للخلية"
+          },
+          "LINE_MOUSE": {
+            "activated": true,
+            "description": "إظهار الخط اللاعب للخلية"
+          },
+          "OUTER_COLOR_TEXT": {
+            "activated": true,
+            "description": "لون الخارجي للكتابة (stroke)",
+            "color": "#000",
+            "picker": false
+          },
+          "COLOR_NAME_CELL": {
+            "activated": true,
+            "description": "لون اسم الخلية",
+            "color": "#fff",
+            "picker": false
+          }
+        }
+      },
+      "MINIMAP": {
+        "title": "إعدادات الخريطة",
+        "content": {
+          "MINIMAP_ENABLED": {
+            "activated": true,
+            "description": "إظهار الخريطة"
+          }
+        }
+      },
+      "LEADERS": {
+        "title": "إعدادات المتصدرين",
+        "content": {
+          "LEADERBOARD": {
+            "activated": true,
+            "description": "قائمة المتصدرين"
+          }
+        }
+      }
+    
+    
+    },
+    "keyboard": {
+      "FEED":70,
+      "FEED_ONE": 87,
+      "SPLIT":32,
+      "HIDE_OVERALY":27,
+      "MULTIBOX":9,
+      "SPLIT_4":71,
+      "SPLIT_16":72,
+      "SPLIT_32":74,
+      "SPLIT_60":75
+    }
+  },
+  "servers": [
+    {
+      "name": "FFA 01",
+      "server": "localhost:3333"
+    },
+    {
+      "name": "SELF 02",
+      "server": "localhost:8888"
+    },
+    {
+      "name": "MEGA 03",
+      "server": "localhost:8802"
+    }
+  ]
+}
